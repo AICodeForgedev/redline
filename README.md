@@ -10,6 +10,9 @@
 <p align="center">
   <a href="https://github.com/AICodeForgedev/redline/releases/latest/download/Redline-Windows.exe"><b>⬇ Download for Windows</b></a>
   &nbsp;·&nbsp;
+  <a href="https://github.com/AICodeForgedev/redline/releases/latest/download/Redline-Mac.dmg"><b>⬇ Download for Mac</b></a>
+  <sub>(<a href="https://github.com/AICodeForgedev/redline/releases/latest/download/Redline-Mac-Intel.dmg">Intel Mac</a>)</sub>
+  &nbsp;·&nbsp;
   <a href="https://github.com/AICodeForgedev/redline/releases">All versions</a>
 </p>
 
@@ -25,6 +28,11 @@
 3. It installs in a few seconds; click **Close**. No administrator password needed.
 
 Redline opens from its desktop or Start menu shortcut, in its own window (it uses Microsoft Edge, which comes with Windows).
+
+**Mac (macOS 12 or newer)**
+1. Download **Redline-Mac.dmg** for a Mac with an Apple chip (M1 or later), or **Redline-Mac-Intel.dmg** for an Intel Mac. Not sure? Apple menu ▸ About This Mac shows "Chip" (Apple) or "Processor" (Intel).
+2. Open it and drag **Redline** onto **Applications**.
+3. The first time, if your Mac says it *"could not verify"* Redline, open **System Settings ▸ Privacy & Security** and click **Open Anyway**. The app isn't notarized yet.
 
 ## What it does
 
